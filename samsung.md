@@ -1,13 +1,9 @@
 # Sumber Studi Kasus Samsung Galaxy S26 Series
 
-[Wikipedia – Samsung Galaxy S26]
-(https://en.wikipedia.org/wiki/Samsung_Galaxy_S26)
+[Samsung Newsroom Indonesia – Galaxy S24 Series dengan Galaxy AI] (https://news.samsung.com/id/ini-dia-galaxy-s24-series-the-first-smartphone-dengan-galaxy-ai-yang-dihadirkan-samsung-ke-indonesia)
 
-[TechRadar Review]
-(https://www.techradar.com/phones/samsung-galaxy-phones/i-like-some-of-samsungs-innovations-on-the-galaxy-s26-ultra-but-heres-why-im-sticking-with-my-iphone)
+[Samsung Indonesia – Galaxy A Series] (https://www.samsung.com/id/smartphones/galaxy-a/)
 
-[Tom’s Guide – Privacy Display]
-(https://www.tomsguide.com/phones/samsung-phones/samsung-galaxy-s26s-privacy-display-is-imperfect-but-you-should-use-it-anyway-heres-how)
+[Samsung Indonesia – Smartphone Galaxy] (https://www.samsung.com/id/smartphones/)
 
-[Android Central Review]
-(https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s26-ultra-review)
+[Samsung Indonesia – Program Trade-In Samsung Galaxy] (https://www.samsung.com/id/offer/mobile-trade-in/)
