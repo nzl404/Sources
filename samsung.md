@@ -1,4 +1,4 @@
-Sumber Studi Kasus Samsung Galaxy S26 Series
+# Sumber Studi Kasus Samsung Galaxy S26 Series
 
 [Wikipedia – Samsung Galaxy S26]
 (https://en.wikipedia.org/wiki/Samsung_Galaxy_S26)
