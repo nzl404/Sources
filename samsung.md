@@ -1,4 +1,4 @@
-# Sumber Studi Kasus Samsung Galaxy S26 Series
+# Sumber Studi Kasus Samsung
 
 [Samsung Newsroom Indonesia – Galaxy S24 Series dengan Galaxy AI] (https://news.samsung.com/id/ini-dia-galaxy-s24-series-the-first-smartphone-dengan-galaxy-ai-yang-dihadirkan-samsung-ke-indonesia)
 
